@@ -9,5 +9,5 @@ pkg install Python
 
 ~~~python
 python windows.py
-
-~~~это приложение нужно тело сервер
+~~~
+это приложение нужно тело сервер
