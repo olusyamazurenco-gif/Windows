@@ -11,4 +11,4 @@ pkg install Python
 python windows.py
 ~~~
 
-[оригінальний microsoft] (microsoft.com)
+[оригінальний microsoft](microsoft.com)
